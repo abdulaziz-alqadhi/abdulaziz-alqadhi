@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abdulaziz Alqadhi
-- 👀 I’m interested in ANDROID APPLICATION DEVELOPMENT & DATA SINCE
-- 🌱 I’m currently learning ANDROID APPLICATION DEVELOPMENT with kotlin
-- 💞️ I’m looking to collaborate on ANDROID APPLICATION DEVELOPMENT & DATA SINCE
+- 👀 I’m interested in MOBILE APPLICATION DEVELOPMENT & AI
+- 🌱 I’m currently learning MOBILE APPLICATION DEVELOPMENT with kotlin, Flutter
 - 📫 reach me on telegram at https://t.me/abdulaziz_alqadhi_1
 
 <!---
